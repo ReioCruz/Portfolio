@@ -298,7 +298,7 @@ header {
 }
 
 .project img {
-    max-width: 100%;
+    max-width: 80px;
     padding: 10px;
     height: auto;
     
