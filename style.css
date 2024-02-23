@@ -11,8 +11,7 @@
     width: 20%;
     justify-items: end;
     background-color: #fff;
-    padding: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 5px;
 }
 .img-responsive{
     width: 500px;
@@ -298,7 +297,7 @@ header {
 }
 
 .project img {
-    max-width: 100px;
+    max-width: 50%;
     padding: 10px;
     height: auto;
     
@@ -326,9 +325,8 @@ footer {
 
 .details {
     background: none;
-    padding: 5px;
-    margin: 2px 0;
-    border-radius: 5px;
+    margin: 1px 0;
+    border-radius:15px;
     box-shadow: 0 2px 4px black;
     text-align: left;
     opacity: .7;
